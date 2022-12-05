@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Einieh</h1>
-<h3 align="center">web developer and phone developer by flutter</h3>
+<h3 align="center">web developer and mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-einieh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-einieh" /> </p>
 
