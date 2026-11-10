@@ -1,38 +1,128 @@
-<h1 align="center">Hi 👋, I'm Ahmad Einieh</h1>
-<h3 align="center">Web and mobile developer</h3>
+<h1 align="center">Ahmad Einieh</h1>
 
-I build web and mobile applications and share projects, experiments, and learning exercises here.
-
-- **Mobile:** Flutter and Dart.
-- **Web:** Frontend and backend development.
-- **Explore:** Browse my [repositories](https://github.com/ahmad-einieh?tab=repositories) for source code and project documentation.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-einieh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-einieh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-einieh" alt="ahmad-einieh" /></a> </p>
-
-- 🌱 Learning interests: **Laravel and MongoDB**
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **ahmad.einieh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmad-einieh-921378181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-einieh-921378181" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14648030/ahmad-einieh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmad-einieh" height="30" width="40" /></a>
+<p align="center">
+  <strong>Senior Software Engineer · Full-Stack Development · Mobile · AI</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building thoughtful digital experiences — from idea to production.<br>
+  Riyadh, Saudi Arabia · Arabic &amp; English
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/einieh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support Ahmad on Buy Me a Coffee" /></a><a href="https://ko-fi.com/ahmadeinieh72016"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Ahmad on Ko-fi" /></a></p><br><br>
+<p align="center">
+  <a href="https://www.ahmadeinieh.com/"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ahmad-einieh/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:ahmad.einieh@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.ahmadeinieh.com/en#works">Selected Work</a>
+</p>
 
-<br/>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-einieh&show_icons=true&locale=en&layout=compact" alt="ahmad-einieh" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-einieh&show_icons=true&locale=en" alt="ahmad-einieh" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-einieh&" alt="ahmad-einieh" /></p>
+## About me
+
+I'm a senior software engineer focused on **scalable full-stack applications, cross-platform mobile experiences, and AI-powered systems**. I enjoy turning complex requirements into practical products, with clean architecture and maintainable code at the core.
+
+At **[Entropy](https://www.entropy.sa/)**, I design, build, secure, optimize, deploy, and maintain a full-stack system end-to-end — spanning frontend, backend, databases, infrastructure, and integrations.
+
+My background combines hands-on product development with machine-learning research. I graduated **with honors in Computer Science from King Saud University**, and my work includes a published case study on predicting flight delays using Saudi Arabian Airlines data.
+
+## What I build
+
+- **Full-stack web applications** — React and Next.js interfaces backed by APIs and database-driven services.
+- **Cross-platform mobile apps** — Flutter applications, alongside Kotlin and native Android development.
+- **Backend services & integrations** — REST APIs using FastAPI, ASP.NET, and Spring Boot, connected to third-party systems.
+- **AI-powered products** — machine-learning models, LLM integrations, and Python-based data workflows.
+- **Production infrastructure** — cloud deployments, Docker, CI/CD, and Linux-based environments.
+
+## Experience
+
+### Entropy · Riyadh, Saudi Arabia
+
+**Senior Full-Stack Developer** · October 2024–Present  
+**Full-Stack Developer** · December 2023–October 2024
+
+- Own end-to-end engineering across frontend, backend, databases, infrastructure, and integrations.
+- Build backend services and AI functionality with Python, and frontend applications with React and Next.js.
+- Handle system security, performance optimization, deployment, and ongoing maintenance.
+
+### WOTN · Riyadh, Saudi Arabia
+
+**Software Developer Intern** · June–September 2022
+
+- Developed cross-platform mobile applications using Flutter.
+- Built web applications using ASP.NET.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| **Web & frontend** | React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap |
+| **Backend & APIs** | Python, FastAPI, C#, ASP.NET, Java, Spring Boot, Node.js, PHP, Laravel |
+| **Mobile** | Flutter, Dart, Kotlin, Android |
+| **AI & data** | TensorFlow, scikit-learn, pandas, NumPy, Jupyter, LLM integrations |
+| **Databases** | PostgreSQL, ClickHouse, MySQL, SQL Server, MongoDB, SQLite |
+| **Cloud & DevOps** | AWS, Microsoft Azure, Google Cloud, Firebase, Docker, Jenkins, Linux |
+| **Development tools** | Git, Postman, Selenium, Figma |
+
+## Selected projects
+
+### Flight Delay Prediction
+
+A graduation project applying machine learning to flight-delay prediction, with a web application that brings the models into a usable interface. The work also connects to my published research on Saudi Arabian Airlines data.
+
+**Stack:** Python · FastAPI · React · HTML · CSS  
+**Explore:** [Project overview](https://www.ahmadeinieh.com/en/project/flight-delay-prediction) · [Research paper](https://www.hindawi.com/journals/ijae/2024/3385463/)
+
+### Mubser
+
+A cross-platform application that uses ChatGPT to help users understand company financial results and the implications of corporate announcements for shareholders.
+
+**Stack:** Flutter · FastAPI · AWS  
+**Explore:** [Project overview & screenshots](https://www.ahmadeinieh.com/en/project/mubser)
+
+### PDF Reader & Translator
+
+A cross-platform PDF reader with selected-text translation into Arabic, text-to-speech, document search, and support for multiple open documents — designed to make reading and understanding content more convenient.
+
+**Stack:** Flutter · Dart  
+**Explore:** [Source code](https://github.com/ahmad-einieh/pdf-reader-with-translate-selected-text) · [Project overview](https://www.ahmadeinieh.com/en/project/pdf-reader-with-select-to-translate)
+
+**[View my full portfolio →](https://www.ahmadeinieh.com/en#works)** · **[Browse public repositories →](https://github.com/ahmad-einieh?tab=repositories)**
+
+## Research
+
+**[Predicting Flight Delays with Machine Learning: A Case Study from Saudi Arabian Airlines](https://www.hindawi.com/journals/ijae/2024/3385463/)**  
+Published March 2024
+
+A machine-learning case study exploring flight-delay prediction using Saudi Arabian Airlines data.
+
+## Education & recognition
+
+**Bachelor of Computer Science — with honors**  
+[King Saud University](https://ksu.edu.sa/en/) · September 2019–June 2023
+
+| Achievement | Details |
+| --- | --- |
+| **2nd place · Digital Attaa Attaathon** | April 2023 · Quran-related concept |
+| **3rd place · KAUST Ignite** | December 2022 · Sustainable smart-grid concept |
+
+## Continuous learning
+
+I continue developing my skills across cloud platforms, machine learning, and software engineering, with **25+ certifications** listed on my portfolio.
+
+Selected credentials:
+
+- [Machine Learning Specialization](https://coursera.org/verify/specialization/HKUKUB72FQ3U) — Coursera
+- [Laravel 9.0 Essential Training](https://www.linkedin.com/learning/certificates/64839be407de4ae514b68167f0c75483a284bb89613de964aa31458a11b20332) — LinkedIn Learning
+- [The Kotlin Learning Guide](https://ude.my/UC-4969849e-d009-4f01-8e81-638e0617ee7f) — Udemy
+
+[View all certificates →](https://www.ahmadeinieh.com/en#certificates)
+
+## Let's connect
+
+Interested in discussing software engineering, product development, or collaboration? Get in touch.
+
+- **Email:** [ahmad.einieh@gmail.com](mailto:ahmad.einieh@gmail.com)
+- **LinkedIn:** [ahmad-einieh](https://www.linkedin.com/in/ahmad-einieh/)
+- **Portfolio:** [www.ahmadeinieh.com](https://www.ahmadeinieh.com/)
+- **Stack Overflow:** [Ahmad Einieh](https://stackoverflow.com/users/14648030/ahmad-einieh)
