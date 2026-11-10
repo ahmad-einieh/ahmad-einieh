@@ -1,3 +1,5 @@
+<p align="center"><strong>English</strong> · <a href="README.ar.md">العربية</a></p>
+
 <h1 align="center">Ahmad Einieh</h1>
 
 <p align="center">
